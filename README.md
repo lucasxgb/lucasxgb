@@ -1,7 +1,7 @@
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://github.com/lucasxgb/"><i>Lucas Gabriel</i></a>😁</h1>
   <p align="center">Estudo Engenharia de Computação na <a href="https://www.uefs.br/"><i>UEFS</i></a>
 
-  <div align="center">
+  <div align="center" style="display: inline_block">
   <a href="https://github.com/lucasxgb">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasxgb&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasxgb&layout=compact&langs_count=7&theme=react"/> 
