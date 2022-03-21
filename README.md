@@ -1,5 +1,6 @@
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://github.com/lucasxgb/"><i>Lucas Gabriel</i></a>😁</h1>
   <p align="center">Estudo Engenharia de Computação na <a href="https://www.uefs.br/"><i>UEFS</i></a>
+  <a href="https://lucasxgb.github.io/portfolio/">Meu Portfólio</a>
 
   <div align="center">
     <a href="https://github.com/lucasxgb">
