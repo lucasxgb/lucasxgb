@@ -12,7 +12,7 @@
 
 <div align="center">  
 
-<a>   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20do%20Usu%C3%A1rio-374957?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)  </a>
+<a>   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20do%20Usu%C3%A1rio-374957?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasxgb)  </a>
 
 
 </div> 
